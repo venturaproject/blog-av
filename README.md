@@ -1,4 +1,4 @@
 # Blog AV 
-[View Live Blo-AV →](https://blog-av.herokuapp.com/)
+[View Live Blog-AV →](https://blog-av.herokuapp.com/)
 
 
