@@ -206,7 +206,7 @@ music: true
 
 # Tip
 tip:
-  enable: true
+  enable: false
   copyright: This is copyright.
   content: false
 
